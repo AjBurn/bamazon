@@ -5,10 +5,10 @@ An amazon inspired application that takes in users requests for a product after 
 
 To run the manager interface please follow the steps below:
 
-	git clone git@github.com:angrbrd/bamazon.git
+	git clone https://github.com/AjBurn/bamazon.git
 	cd bamazon
 	npm install
-	node bamazonManager.js
+	node bamCust.js
   
   ### Images
   
