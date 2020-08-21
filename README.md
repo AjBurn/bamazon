@@ -12,4 +12,4 @@ To run the manager interface please follow the steps below:
   
   ### Images
   
- 
+ ![Product Table][Untitled]
