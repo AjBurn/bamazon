@@ -14,4 +14,4 @@ To run the manager interface please follow the steps below:
   
  ![Product Table][Untitled]
  
- ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+ ![alt text](https://github.com/AjBurn/bamazon.git/readme_imgs/unititled)
