@@ -12,6 +12,6 @@ To run the manager interface please follow the steps below:
   
   ### Images
   
- ![Product Table][Untitled]
+ ![Product Table](https://user-images.githubusercontent.com/60077953/90852081-cbc8e780-e333-11ea-9318-6c0b347953f5.png)
  
- ![alt text](https://github.com/AjBurn/bamazon.git/readme_imgs/unititled)
+ 
